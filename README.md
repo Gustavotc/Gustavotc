@@ -1,16 +1,13 @@
-### Hi there 👋
+# Gustavo Travaini Chinalia 
 
-<!--
-**Gustavotc/Gustavotc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student, fascinated for technology and always looks for new challenges. 💻📱
 
-Here are some ideas to get you started:
+Passionate about solving problems and self-improvement. Alway learning ! 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### "The best way to predict the future is to create it" 🧠
+
+Contact me 👇
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Travaini-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-travaini/)](https://www.linkedin.com/in/gustavo-travaini/) 
+[![Gmail Badge](https://img.shields.io/badge/-gtchinalia@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtchinalia@gmail.com)](mailto:gtchinalia@gmail.com)
