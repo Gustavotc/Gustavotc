@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student, fascinated for technology and always looks for new challenges. 💻📱
 
-Passionate about solving problems and self-improvement. Alway learning ! 👨‍💻
+Passionate about solving problems and self-improvement. Always learning ! 👨‍💻
 
 
 ### "The best way to predict the future is to create it" 🧠
