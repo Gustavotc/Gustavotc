@@ -9,5 +9,5 @@ Passionate about solving problems and self-improvement. Always learning ! 👨�
 
 Contact me 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Travaini-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-travaini/)](https://www.linkedin.com/in/gustavo-travaini/) 
-[![Gmail Badge](https://img.shields.io/badge/-gtchinalia@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtchinalia@gmail.com)](mailto:gtchinalia@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Travaini-87CEFA?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-travaini/)](https://www.linkedin.com/in/gustavo-travaini/) 
+[![Gmail Badge](https://img.shields.io/badge/-gtchinalia@gmail.com-B22222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtchinalia@gmail.com)](mailto:gtchinalia@gmail.com)
