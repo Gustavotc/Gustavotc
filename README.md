@@ -18,7 +18,7 @@ Passionate about solving problems and self-improvement. Always learning ! ðŸ‘¨â€
   <img align="center" alt="Gustavo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gustavo-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <img align="center" alt="Gustavo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="right"  alt="Computer-pic" height="150" src="https://user-images.githubusercontent.com/65514572/148655749-541ff3e0-13bf-4170-afff-9bb28f224b20.png">
+  <img align="right"  alt="Gustavo-pic" height="150" src="https://user-images.githubusercontent.com/65514572/148660716-ac30c629-8866-4680-b833-a1f2afd079a8.gif">
 </div>
 
   ##
