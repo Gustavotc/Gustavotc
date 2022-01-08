@@ -1,6 +1,6 @@
 # Gustavo Travaini Chinalia 
 
-I'm a Computer Engineering student and a mobile developer, fascinated for technology and always looks for new challenges. 💻📱
+I'm a Computer Engineering student and a mobile developer, fascinated for technology and always looking for new challenges. 💻📱
 
 Passionate about solving problems and self-improvement. Always learning ! 👨‍💻
 
