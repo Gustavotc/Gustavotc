@@ -25,7 +25,7 @@ Passionate about solving problems and self-improvement. Always learning ! ðŸ‘¨â€
 
 <div> 
  <a href="https://www.linkedin.com/in/gustavo-travaini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="mailto:gustavotch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="mailto:gtchinalia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
  
 ![Snake animation](https://github.com/gustavotc/gustavotc/blob/output/github-contribution-grid-snake.svg)
